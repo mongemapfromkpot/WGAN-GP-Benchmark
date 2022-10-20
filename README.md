@@ -11,7 +11,7 @@ The image generation experiments we ran with WGAN-GP are described in Section 5 
 
 
 ### Computing architecture and running times
-We ran different versions of the code presented here on Compute Canada (https://www.computecanada.ca/) clusters, always using a single NVIDIA P100 or V100 GPU. Training times are reported in Addendix 8 of the paper.
+We ran the code presented here on computational clusters provided by the Digital Research Alliance of Cananda (https://alliancecan.ca/en), always using a single NVIDIA P100 or V100 GPU. Training times are reported in Addendix 8 of the paper.
 
 
 ## Assets 
